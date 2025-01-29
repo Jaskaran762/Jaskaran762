@@ -47,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Jaskaran762&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=JaskaranSingh&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com/?user=Jaskaran762&theme=tokyonight" />
     </td>
   </tr>
 </table>
