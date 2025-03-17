@@ -7,7 +7,6 @@
 
 ### 🚀 About Me  
 - 🎓 Master's in Applied Computer Science @ Dalhousie University  
-- 🏢 Experience: CGI, LTIMindtree  
 - 💡 Learning: Azure & AI-based solutions  
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/jaskaran-singh-ab6491144/)**  
 
